@@ -1,7 +1,7 @@
 {
   "name": "knexnest",
   "version": "1.0.0",
-  "description": "Given a Knex select object will provide a hyrdated object using promises.",
+  "description": "Given a Knex select object will provide a hydrated object using promises.",
   "keywords": [
     "Hydration",
     "Tabular Data",
